@@ -4,7 +4,7 @@ spring init \
     --dependencies web,jpa \
     --groupId com.maciek \
     --force \
-    --name "Yarn Application - Master Module" \
+    --name "Yarn Application" \
     --description "" \
-    --package-name "com.maciek.learn.spring.gs" \
-    mgs-maven-yarn-appmaster
+    --package-name "com.maciek.learn.spring.gs.yarn" \
+    mgs-maven-yarn
